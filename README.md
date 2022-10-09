@@ -14,5 +14,3 @@
 12. Инструкция по созданию pull request
 13. Книги и полезные ссылки по изучению git.
 14. Альтернативные системы контроля версий.
-
-DVC, Delta Lake, Git LFS, Pachyderm, DOLT, lakeFS
